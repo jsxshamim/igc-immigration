@@ -1,0 +1,44 @@
+[
+    {
+        "id": "62a5cee93eefea1ad5f0c84c",
+        "price": 499,
+        "picture": "https://i.ibb.co/fXs1xNC/room-6.jpg",
+        "title": "Education Visa",
+        "description": "The Study Visit Visa is for individuals who wish to come to the UK for a period of study, an elective relevant to a course of study abroad or a period of research (or research tuition) that will last up to 6 months. The Study Visit Visa is a sub-category of the Standard Visitor route, which is a route for persons who wish to visit the UK for a temporary period of up to 6 months.  The route does not lead to settlement in the UK and all visitors must make a separate application, even when travelling as part of a group."
+    },
+    {
+        "id": "62a5cee987eb899c415676f6",
+        "price": 899,
+        "picture": "https://i.ibb.co/28DFVSF/room-7.jpg",
+        "title": "Skilled Immigration",
+        "description": "The Global Talent visa is open to talented and promising applicants within the fields of science, engineering, medicine, humanities, digital technology and arts and culture (including film and television, fashion design and architecture) who wish to work in the UK. ‘Talent’ applicants will already be leaders in their respective field, while ‘promise’ applicants will be able to show the potential to become leaders in their field. The Global Talent category is not subject to a cap on the number of applicants, does not require a job offer and can lead to settlement in the UK.  A dependent partner and dependent children under 18 can apply under this route."
+    },
+    {
+        "id": "62a5cee935d3d4cb6203acaf",
+        "price": 1599,
+        "picture": "https://i.ibb.co/xSfSRqY/room-8.jpg",
+        "title": "Business Immigration",
+        "description": "The UK Start-up visa is for individuals who are new entrepreneurs and want to establish a business in the UK for the first time.  You do not need to be a graduate or have secured any initial funding. However, you will need to have an innovative, viable and scalable business idea which has been approved by an endorsing body. Start-up visas are one-off visas, valid for 2 years and the category does not lead directly to settlement in the UK.  However, Start-up visa holders may extend their stay in the Innovator visa category and qualify for ILR three years later.  Start-up visa applicants can bring their partner and any children under the age of 18 to the UK."
+    },
+    {
+        "id": "62a5cee918786f01db764f29",
+        "price": 999,
+        "picture": "https://i.ibb.co/Mph5HvQ/room-9.jpg",
+        "title": "Spouse/Family Visas",
+        "description": "The UK Spouse visa category is for partners of British citizens, persons with indefinite leave to remain in the UK or limited leave to remain under Appendix EU or Appendix ECAA, who wish to join, or stay with, their husband or wife in the UK. You can also apply for a UK Spouse visa if your Spouse is outside the UK, but intending to return to the UK with you."
+    },
+    {
+        "id": "62a5cee91ee85d17552893cf",
+        "price": 699,
+        "picture": "https://i.ibb.co/fXs1xNC/room-6.jpg",
+        "title": "Tourist & Visitor Visas",
+        "description": "The Tourism, Leisure and Family Visit Visa is for individuals who wish to come to the UK for a short-term stay for the purpose of visiting friends and/or family or for a short holiday.The Tourism, Leisure and Family Visit Visa is a sub-category of the Standard Visitor route, which is a route for persons who wish to visit the UK for a temporary period of up to 6 months. The route does not lead to settlement in the UK and all visitors must make a separate application, even when travelling as part of a group."
+    },
+    {
+        "id": "62a5cee97c6e0549e4d19304",
+        "price": 399,
+        "picture": "https://i.ibb.co/28DFVSF/room-7.jpg",
+        "title": "Language Courses",
+        "description": "The Short-term Student Visa (English Language) is a route for persons aged 16 and over who want to study an English language course in the UK for between 6 and 11 months without a student sponsor but at an accredited institution. If you wish to study an English language course that will last longer than 11 months then you should apply for a Student Visa or Child Student Visa instead. If you wish to study a course or complete a period of research that will last less than 6 months then the UK also offers a shorter 6-month Short-term Student Visa.  This route can also be used by persons who wish to re-sit an examination, retake a module or take an oral examination as part of a PhD qualification.  There is also a Short-term Student (Child) route which is available to persons under the age of 16."
+    }
+]
