@@ -1,0 +1,6 @@
+.header-banner {
+    background-image: url(../../../../Assets/header-banner.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 700px;
+}
