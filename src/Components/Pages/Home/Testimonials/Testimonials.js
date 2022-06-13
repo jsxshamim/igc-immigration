@@ -48,13 +48,58 @@ const Testimonials = () => {
                                 <div className="flex gap-5 items-center mb-5">
                                     <img className="rounded-full h-20 w-20 object-cover" src="https://i.ibb.co/wd14B67/service-6.jpg" alt="" />
                                     <div className="title">
-                                        <h3 className="text-xl font-bold text-secondary">Full Name</h3>
+                                        <h3 className="text-xl font-bold text-secondary">Celeste Jimenez</h3>
                                         <p>(USA Student Visa)</p>
                                     </div>
                                 </div>
                                 <p className="italic text-paragraph">
-                                    At sagittis congue augue egestas undo magna ipsum vitae purus ipsum primis in cubilia laoreet augue ociis at nullam tempor sapien gravida porta integer at odio velna auctor. An augue in cubilia laoreet magna
-                                    suscipit egestas magna ipsum vitae purus ipsum primis cubilia laoreet augue ultrice ligula egestas
+                                    It's an honor to be a part of this company. It's been my dream to become a Digital Dude for as long as I can remember, so when I finally got the opportunity to audition for the team, nothing could have stopped me
+                                    from making it happen. I'm happy everyday that I get to work with these guys and show off my skills in design and development.
+                                </p>
+                            </div>
+                        </SwiperSlide>
+                        <SwiperSlide>
+                            <div className="p-8 bg-white rounded shadow-lg">
+                                <div className="flex gap-5 items-center mb-5">
+                                    <img className="rounded-full h-20 w-20 object-cover" src="https://i.ibb.co/wd14B67/service-6.jpg" alt="" />
+                                    <div className="title">
+                                        <h3 className="text-xl font-bold text-secondary">Kaye Rocha</h3>
+                                        <p>(USA Tourist Visa)</p>
+                                    </div>
+                                </div>
+                                <p className="italic text-paragraph">
+                                    I've been working with the team at The Digital Dudes for over a year now. The team is awesome and easy to work with. They have not had any issues with delivering on time and they are always willing to go the extra
+                                    mile when needed. I'd recommend them to anyone who's looking for a team of skilled and talented professionals that are experts in their field.
+                                </p>
+                            </div>
+                        </SwiperSlide>
+                        <SwiperSlide>
+                            <div className="p-8 bg-white rounded shadow-lg">
+                                <div className="flex gap-5 items-center mb-5">
+                                    <img className="rounded-full h-20 w-20 object-cover" src="https://i.ibb.co/wd14B67/service-6.jpg" alt="" />
+                                    <div className="title">
+                                        <h3 className="text-xl font-bold text-secondary">Lourdes Mcclain</h3>
+                                        <p>(USA Family Visa)</p>
+                                    </div>
+                                </div>
+                                <p className="italic text-paragraph">
+                                    I created my business with the help of the Digital Dudes. I can't say enough about how much I love them and their team. They are always so helpful and have great ideas when I'm in a creative rut. All that other
+                                    nonsense aside, The Digital Dudes is the best digital agency out there, hands down!
+                                </p>
+                            </div>
+                        </SwiperSlide>
+                        <SwiperSlide>
+                            <div className="p-8 bg-white rounded shadow-lg">
+                                <div className="flex gap-5 items-center mb-5">
+                                    <img className="rounded-full h-20 w-20 object-cover" src="https://i.ibb.co/wd14B67/service-6.jpg" alt="" />
+                                    <div className="title">
+                                        <h3 className="text-xl font-bold text-secondary">Dionne Carter</h3>
+                                        <p>(Canada Business Visa)</p>
+                                    </div>
+                                </div>
+                                <p className="italic text-paragraph">
+                                    The Digital Dudes is a team of skilled professionals, always willing to help, who will succeed in whatever they set their minds to. They have overseen the creation of many of our successful marketing campaigns and
+                                    I can confidently say that they are one of the best web marketing firms out there.
                                 </p>
                             </div>
                         </SwiperSlide>
@@ -64,87 +109,12 @@ const Testimonials = () => {
                                     <img className="rounded-full h-20 w-20 object-cover" src="https://i.ibb.co/wd14B67/service-6.jpg" alt="" />
                                     <div className="title">
                                         <h3 className="text-xl font-bold text-secondary">Full Name</h3>
-                                        <p>(USA Student Visa)</p>
+                                        <p>( UK Student Visa)</p>
                                     </div>
                                 </div>
                                 <p className="italic text-paragraph">
-                                    At sagittis congue augue egestas undo magna ipsum vitae purus ipsum primis in cubilia laoreet augue ociis at nullam tempor sapien gravida porta integer at odio velna auctor. An augue in cubilia laoreet magna
-                                    suscipit egestas magna ipsum vitae purus ipsum primis cubilia laoreet augue ultrice ligula egestas
-                                </p>
-                            </div>
-                        </SwiperSlide>
-                        <SwiperSlide>
-                            <div className="p-8 bg-white rounded shadow-lg">
-                                <div className="flex gap-5 items-center mb-5">
-                                    <img className="rounded-full h-20 w-20 object-cover" src="https://i.ibb.co/wd14B67/service-6.jpg" alt="" />
-                                    <div className="title">
-                                        <h3 className="text-xl font-bold text-secondary">Full Name</h3>
-                                        <p>(USA Student Visa)</p>
-                                    </div>
-                                </div>
-                                <p className="italic text-paragraph">
-                                    At sagittis congue augue egestas undo magna ipsum vitae purus ipsum primis in cubilia laoreet augue ociis at nullam tempor sapien gravida porta integer at odio velna auctor. An augue in cubilia laoreet magna
-                                    suscipit egestas magna ipsum vitae purus ipsum primis cubilia laoreet augue ultrice ligula egestas
-                                </p>
-                            </div>
-                        </SwiperSlide>
-                        <SwiperSlide>
-                            <div className="p-8 bg-white rounded shadow-lg">
-                                <div className="flex gap-5 items-center mb-5">
-                                    <img className="rounded-full h-20 w-20 object-cover" src="https://i.ibb.co/wd14B67/service-6.jpg" alt="" />
-                                    <div className="title">
-                                        <h3 className="text-xl font-bold text-secondary">Full Name</h3>
-                                        <p>(USA Student Visa)</p>
-                                    </div>
-                                </div>
-                                <p className="italic text-paragraph">
-                                    At sagittis congue augue egestas undo magna ipsum vitae purus ipsum primis in cubilia laoreet augue ociis at nullam tempor sapien gravida porta integer at odio velna auctor. An augue in cubilia laoreet magna
-                                    suscipit egestas magna ipsum vitae purus ipsum primis cubilia laoreet augue ultrice ligula egestas
-                                </p>
-                            </div>
-                        </SwiperSlide>
-                        <SwiperSlide>
-                            <div className="p-8 bg-white rounded shadow-lg">
-                                <div className="flex gap-5 items-center mb-5">
-                                    <img className="rounded-full h-20 w-20 object-cover" src="https://i.ibb.co/wd14B67/service-6.jpg" alt="" />
-                                    <div className="title">
-                                        <h3 className="text-xl font-bold text-secondary">Full Name</h3>
-                                        <p>(USA Student Visa)</p>
-                                    </div>
-                                </div>
-                                <p className="italic text-paragraph">
-                                    At sagittis congue augue egestas undo magna ipsum vitae purus ipsum primis in cubilia laoreet augue ociis at nullam tempor sapien gravida porta integer at odio velna auctor. An augue in cubilia laoreet magna
-                                    suscipit egestas magna ipsum vitae purus ipsum primis cubilia laoreet augue ultrice ligula egestas
-                                </p>
-                            </div>
-                        </SwiperSlide>
-                        <SwiperSlide>
-                            <div className="p-8 bg-white rounded shadow-lg">
-                                <div className="flex gap-5 items-center mb-5">
-                                    <img className="rounded-full h-20 w-20 object-cover" src="https://i.ibb.co/wd14B67/service-6.jpg" alt="" />
-                                    <div className="title">
-                                        <h3 className="text-xl font-bold text-secondary">Full Name</h3>
-                                        <p>(USA Student Visa)</p>
-                                    </div>
-                                </div>
-                                <p className="italic text-paragraph">
-                                    At sagittis congue augue egestas undo magna ipsum vitae purus ipsum primis in cubilia laoreet augue ociis at nullam tempor sapien gravida porta integer at odio velna auctor. An augue in cubilia laoreet magna
-                                    suscipit egestas magna ipsum vitae purus ipsum primis cubilia laoreet augue ultrice ligula egestas
-                                </p>
-                            </div>
-                        </SwiperSlide>
-                        <SwiperSlide>
-                            <div className="p-8 bg-white rounded shadow-lg">
-                                <div className="flex gap-5 items-center mb-5">
-                                    <img className="rounded-full h-20 w-20 object-cover" src="https://i.ibb.co/wd14B67/service-6.jpg" alt="" />
-                                    <div className="title">
-                                        <h3 className="text-xl font-bold text-secondary">Full Name</h3>
-                                        <p>(USA Student Visa)</p>
-                                    </div>
-                                </div>
-                                <p className="italic text-paragraph">
-                                    At sagittis congue augue egestas undo magna ipsum vitae purus ipsum primis in cubilia laoreet augue ociis at nullam tempor sapien gravida porta integer at odio velna auctor. An augue in cubilia laoreet magna
-                                    suscipit egestas magna ipsum vitae purus ipsum primis cubilia laoreet augue ultrice ligula egestas
+                                    It was just a few days before my website launch and I had no idea where I should go to get video production done. Luckily, I found The Digital Dudes and they have been a lifesaver ever since. All my videos look
+                                    slick and professional, which is exactly what I wanted. They are also highly responsive to feedback, which is great since the client always knows best
                                 </p>
                             </div>
                         </SwiperSlide>
