@@ -55,7 +55,7 @@ const Signup = () => {
     }, [googleLoginError, googleUser, navigate, signupError, user]);
 
     return (
-        <div className="w-4/12 mx-auto border px-8 py-8 mt-5">
+        <div className="w-4/12 mx-auto border px-8 py-8 my-5">
             <h1 className="text-3xl text-center font-semibold my-5">Create a new account</h1>
             <form onSubmit={handleSignup} className="flex flex-col pt-14 gap-5 text-paragraph">
                 <input className="border px-5 py-3 placeholder:text-paragraph" type="text" name="name" id="name" placeholder="Enter Your Name" required />

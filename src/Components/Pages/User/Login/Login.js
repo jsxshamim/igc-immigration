@@ -53,7 +53,7 @@ const Login = () => {
     }, [facebookError, facebookUser, from, googleError, googleUser, loginError, navigate, user]);
 
     return (
-        <div className="w-3/12 mx-auto border px-8 py-5 mt-5">
+        <div className="w-3/12 mx-auto border px-8 py-5 my-5">
             <form onSubmit={handleLogin} className="flex flex-col gap-6 text-paragraph">
                 <h1 className="text-3xl text-center font-semibold my-5">Login Your Account</h1>
                 <input className="border px-5 py-3 placeholder:text-paragraph" type="email" name="email" id="email" placeholder="Enter Your Email" required />
