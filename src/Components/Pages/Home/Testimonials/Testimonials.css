@@ -1,0 +1,5 @@
+.testimonial-bg {
+    background-image: url(../../../../Assets/testimonial-bg.png);
+    background-size: cover;
+    height: 700px;
+}

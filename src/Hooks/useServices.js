@@ -6,7 +6,7 @@ const useServices = () => {
 
     useEffect(() => {
         axios
-            .get("services.json")
+            .get("https://api.npoint.io/24e123518336b2e04f76")
             .then((res) => setServices(res.data))
             .catch((error) => console.log(error.message));
     }, []);

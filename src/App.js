@@ -9,10 +9,18 @@ import Header from "./Components/Shared/Header/Header/Header";
 import Footer from "./Components/Shared/Footer/Footer";
 import NotFound from "./Components/Shared/NotFound/NotFound";
 import Checkout from "./Components/Pages/Checkout/Checkout";
+import ForgotPassword from "./Components/Pages/User/ForgotPassword/ForgotPassword";
+import RequireAuth from "./Components/Shared/RequireAuth/RequireAuth";
+import Profile from "./Components/Pages/Profile/Profile";
+import { createContext, useState } from "react";
+
+export const HeaderFormContext = createContext([]);
 
 function App() {
+    const [info, setInfo] = useState({});
+
     return (
-        <div>
+        <HeaderFormContext.Provider value={[info, setInfo]}>
             <Header></Header>
             <Routes>
                 <Route path="/" element={<Home />} />
@@ -20,13 +28,30 @@ function App() {
                 <Route path="/blog" element={<Blog />} />
                 <Route path="/login" element={<Login />} />
                 <Route path="/Signup" element={<Signup />} />
+                <Route path="/forgot-password" element={<ForgotPassword />} />
 
-                <Route path="/checkout" element={<Checkout />} />
+                <Route
+                    path="/checkout/:bookingID"
+                    element={
+                        <RequireAuth>
+                            <Checkout />
+                        </RequireAuth>
+                    }
+                />
+
+                <Route
+                    path="/profile"
+                    element={
+                        <RequireAuth>
+                            <Profile />
+                        </RequireAuth>
+                    }
+                />
 
                 <Route path="*" element={<NotFound />} />
             </Routes>
             <Footer></Footer>
-        </div>
+        </HeaderFormContext.Provider>
     );
 }
 

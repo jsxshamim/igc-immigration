@@ -1,0 +1,21 @@
+.or-line {
+    position: relative;
+}
+.or-line::after {
+    position: absolute;
+    content: "";
+    width: 42%;
+    height: 1px;
+    background-color: gray;
+    top: 15px;
+    right: 0;
+}
+.or-line::before {
+    position: absolute;
+    content: "";
+    width: 42%;
+    height: 1px;
+    background-color: gray;
+    top: 15px;
+    left: 0;
+}

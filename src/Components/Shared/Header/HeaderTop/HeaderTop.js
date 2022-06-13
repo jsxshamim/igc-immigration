@@ -5,7 +5,7 @@ import React from "react";
 
 const HeaderTop = () => {
     return (
-        <div className="flex text-paragraph justify-between text-md items-center h-10 border-b container mx-auto">
+        <div className="header-top md:flex text-paragraph justify-between text-md items-center h-10 border-b px-10 lg:container mx-auto">
             <div>
                 <FontAwesomeIcon icon={faMapMarkerAlt} /> 121 King St, Melbourne, Victoria 3000
             </div>
